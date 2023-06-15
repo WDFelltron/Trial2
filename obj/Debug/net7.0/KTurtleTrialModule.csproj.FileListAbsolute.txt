@@ -1,0 +1,15 @@
+/home/wdf/KTurtleTrialModule/bin/Debug/net7.0/KTurtleTrialModule
+/home/wdf/KTurtleTrialModule/bin/Debug/net7.0/KTurtleTrialModule.deps.json
+/home/wdf/KTurtleTrialModule/bin/Debug/net7.0/KTurtleTrialModule.runtimeconfig.json
+/home/wdf/KTurtleTrialModule/bin/Debug/net7.0/KTurtleTrialModule.dll
+/home/wdf/KTurtleTrialModule/bin/Debug/net7.0/KTurtleTrialModule.pdb
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.csproj.AssemblyReference.cache
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.GeneratedMSBuildEditorConfig.editorconfig
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.AssemblyInfoInputs.cache
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.AssemblyInfo.cs
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.csproj.CoreCompileInputs.cache
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.dll
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/refint/KTurtleTrialModule.dll
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.pdb
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/KTurtleTrialModule.genruntimeconfig.cache
+/home/wdf/KTurtleTrialModule/obj/Debug/net7.0/ref/KTurtleTrialModule.dll
